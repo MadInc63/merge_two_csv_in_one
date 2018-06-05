@@ -1,4 +1,4 @@
-#Merge two csv file
+# Merge two csv file
 
 The script combines two CSV files by key
 
@@ -42,7 +42,7 @@ id_product,reference,id_category_default,price,description_short,description,nam
 ```
 
 
-#How to use
+# How to use
 
 The script requires the installed Python interpreter version 3.6 To call the help, run the script with the -h or --help option.
 ```Bash
